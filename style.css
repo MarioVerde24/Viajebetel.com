@@ -312,6 +312,7 @@ h2{
 }
 
 .container-hoteltela{
+  margin-left: 20px;
   height: 55svh;
   justify-content: space-around;
   flex-wrap: nowrap;
@@ -383,6 +384,7 @@ h1{
   }
 
   .container-hoteltela{
+    margin-left: 20px;
     height: 35svh;
     justify-content: space-around;
     flex-wrap: nowrap;
